@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "Post de ejemplo"
 ---
 # POSTejemplo
 
