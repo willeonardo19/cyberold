@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Post de ejemplo"
+categories: misc
 ---
 # POSTejemplo
 
